@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "van-icon": "/static/vant/icon/index"
+  },
+  "navigationBarTitleText": "组件首页"
+}

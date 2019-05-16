@@ -1,0 +1,12 @@
+{
+  "pages": [
+    "pages/component/index/main",
+    "pages/component/swipe/main"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  }
+}
